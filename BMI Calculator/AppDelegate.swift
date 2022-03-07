@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  BMI Calculator
 //
-//  Created by Colleen Callahan on 3/7/22.
+//  Created by Michael Callahan on 3/7/22.
 //
 
 import UIKit
