@@ -14,6 +14,7 @@
 		61058BB527D6CDB400165F6B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61058BB327D6CDB400165F6B /* LaunchScreen.storyboard */; };
 		61058BBD27D6CE3800165F6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 61058BBC27D6CE3800165F6B /* Main.storyboard */; };
 		6133340B27D7C7BA008A7E46 /* ResultViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6133340A27D7C7BA008A7E46 /* ResultViewController.swift */; };
+		614A9C2827D8D03700C2794B /* CalculatorLogic.swift in Sources */ = {isa = PBXBuildFile; fileRef = 614A9C2727D8D03700C2794B /* CalculatorLogic.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,7 @@
 		61058BB627D6CDB400165F6B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		61058BBC27D6CE3800165F6B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Main.storyboard; sourceTree = "<group>"; };
 		6133340A27D7C7BA008A7E46 /* ResultViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ResultViewController.swift; sourceTree = "<group>"; };
+		614A9C2727D8D03700C2794B /* CalculatorLogic.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CalculatorLogic.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -73,6 +75,7 @@
 		61058BBE27D6CE4500165F6B /* Models */ = {
 			isa = PBXGroup;
 			children = (
+				614A9C2727D8D03700C2794B /* CalculatorLogic.swift */,
 			);
 			path = Models;
 			sourceTree = "<group>";
@@ -167,6 +170,7 @@
 			files = (
 				61058BAD27D6CDB200165F6B /* CalculateViewController.swift in Sources */,
 				61058BA927D6CDB200165F6B /* AppDelegate.swift in Sources */,
+				614A9C2827D8D03700C2794B /* CalculatorLogic.swift in Sources */,
 				61058BAB27D6CDB200165F6B /* SceneDelegate.swift in Sources */,
 				6133340B27D7C7BA008A7E46 /* ResultViewController.swift in Sources */,
 			);
